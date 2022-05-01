@@ -24,3 +24,5 @@ mail($mailTo, $subject, $txt, $headers);
 // function to take to page when this is done
 header("location: index.php?mailsend");
 }
+
+?>
