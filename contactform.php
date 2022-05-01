@@ -13,7 +13,7 @@ $message = $_POST['message'];
 
 
 // other variables for mail function
-$mailTo = "dd595@cam.ac.uk";
+$mailTo = "cfggroup2@yahoo.com";
 $headers = "From: ".$mailFrom;
 $txt = "You have received an email from ".$name.".\n\n".$message;
 
